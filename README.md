@@ -1,2 +1,8 @@
-# ULTRAKILL-Belarusian-Translation
-АКТУАЛЬНЫ БЕЛАРУСІФІКАТАР ULTRAKILL
+Апошняе абнаўленне: 22.02.2026
+### Спасылка на артыкул у Steam: [АКТУАЛЬНЫ БЕЛАРУСІФІКАТАР ULTRAKILL](https://steamcommunity.com/sharedfiles/filedetails/?id=3671346011&preview=true)
+---
+### Кароткі гайд на ўстаноўку перакладу:
+1. Запампуйце ці купіце ULTRAKILL
+2. Запампуйце zip архіў і распакуйце яго ў тэчку ULTRAKILL (выберыце выняць у бягучую тэчку)
+3. Запускайце гульню
+---
