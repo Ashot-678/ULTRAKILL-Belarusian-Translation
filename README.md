@@ -1,2 +1,2 @@
-# ULTRAKILL-Belarusian-Lang
+# ULTRAKILL-Belarusian-Translation
 АКТУАЛЬНЫ БЕЛАРУСІФІКАТАР ULTRAKILL
