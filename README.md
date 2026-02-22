@@ -3,6 +3,6 @@
 ---
 ### Кароткі гайд на ўстаноўку перакладу:
 1. Запампуйце ці купіце ULTRAKILL
-2. Запампуйце zip архіў (UltraBel.zip) і распакуйце яго ў тэчку ULTRAKILL (выберыце выняць у бягучую тэчку)
+2. Запампуйце zip архіў [UltraBel.zip](https://github.com/Ashot-678/ULTRAKILL-Belarusian-Translation/releases/tag/UltraBel) і распакуйце яго ў тэчку ULTRAKILL (выберыце выняць у бягучую тэчку)
 3. Запускайце гульню
 ---
