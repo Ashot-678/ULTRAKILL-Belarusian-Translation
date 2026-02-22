@@ -1,5 +1,5 @@
 Апошняе абнаўленне: 22.02.2026
-### Спасылка на артыкул у Steam: [АКТУАЛЬНЫ БЕЛАРУСІФІКАТАР ULTRAKILL](https://steamcommunity.com/sharedfiles/filedetails/?id=3671346011&preview=true)
+### Спасылка на артыкул у Steam: [АКТУАЛЬНЫ БЕЛАРУСІЗАТАР ULTRAKILL](https://steamcommunity.com/sharedfiles/filedetails/?id=3671346011&preview=true)
 ---
 ### Кароткі гайд на ўстаноўку перакладу:
 1. Запампуйце ці купіце ULTRAKILL
