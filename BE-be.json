@@ -298,8 +298,8 @@
     "power_greatsword": "Меч!",
     "power_spear": "Дзіда!",
     "power_spearThrow": "Сюды!",
-    "power_glaive": "Глева!"
-    "power_glaiveThrow": "Жры!"
+    "power_glaive": "Глева!",
+    "power_glaiveThrow": "Жры!",
   },
   "encore": {
     "encorePrelude_aboutRadiantEnemies": "<color=#f77900>ЗЗЯЮЧЫЯ</color> ворагі маюць павышаныя здароўе і хуткасць.",
@@ -2806,4 +2806,5 @@
     "sandbox_shop_default": "ПА ЗМОЎЧАННІ",
     "sandbox_shop_pitr": "ПІТР"
   }
+
 }
