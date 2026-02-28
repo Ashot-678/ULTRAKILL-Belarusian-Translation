@@ -1121,7 +1121,7 @@
     "graphics_pixelisation480p": "480P (НІЗКІ)",
     "graphics_pixelisation360p": "360P (СЯРЭДНІ)",
     "graphics_pixelisation240p": "240P (ВЫСОКІ)",
-    "graphics_pixelisation144p": "144P (ДУЖА ВЫСОКІ)",
+    "graphics_pixelisation144p": "144P (ВЕЛЬМІ ВЫСОКІ)",
     "graphics_pixelisation36p": "36P (АБСУРДНЫ)",
     "graphics_dithering": "ДЫЗЕРЫНГ",
     "graphics_ditheringMinimum": "НЕМА",
@@ -1381,9 +1381,9 @@
     "levelName_violenceThird": "АНІ ГУКА, АНІ ЎСПАМІНУ",
     "levelName_violenceFourth": "...НІБЫ АНТЭНЫ ДА РАЮ",
     "levelName_violenceSecret": "ЛЕЯНІДАМ НЕ КРАНУЦЦА ДА ВАДЫ",
-    "levelName_fraudFirst": "КРАІНА МАРАЎ І БОЛЮ",
+    "levelName_fraudFirst": "ЦУД ПАКУТЛІВАГА БОЛЮ",
     "levelName_fraudSecond": "ПРАЗ ЛЮСТРА",
-    "levelName_fraudThird": "КОЛА ДЫЗІНТЭГРАЦЫІ",
+    "levelName_fraudThird": "ПЯТЛЯ РАЗБУРЭННЯ",
     "levelName_fraudFourth": "АПОШНІ ПАЛЁТ",
     "levelName_fraudSecret": "",
     "levelName_treacheryFirst": "ЗДРАДА ПЕРШАЯ",
@@ -1432,7 +1432,7 @@
     "challenges_violenceSecond": "НЕ ЗАБЕЙЦЕ АНІВОДНАГА ВОРАГА",
     "challenges_violenceThird": "СТАНЬЦЕ ПАЗНАЧАНЫМ НА СМЕРЦЬ",
     "challenges_violenceFourth": "НЕ ЗМАГАЙЦЕСЯ З СІСТЭМАЙ АБАРОНЫ",
-    "challenges_fraudFirst": "АДПАРЫРУЙЦЕ ПРАСВЯТЛЕННЕ",
+    "challenges_fraudFirst": "АДПАРЫРУЙЦЕ ПРОВІД",
     "challenges_fraudSecond": "СКОНЧЫЦЕ ЎЗРОВЕНЬ ДАГАРЫ НАГАМІ",
     "challenges_fraudThird": "ЗАБЕЙЦЕ СІЛУ КРЫТЫЧНАЙ ХУТКАСЦЮ",
     "challenges_fraudFourth": "НЕ ПАДБЯРЫЦЕ НІВОДНАГА ЧЭРАПА",
@@ -2803,8 +2803,9 @@
     "sandbox_shop_worldOptionsDisabled": "АДКЛЮЧЫЦЬ",
     "sandbox_shop_mapBorder": "Мяжы Света",
     "sandbox_shop_iconsTitle": "НАБОРЫ ІКОНАК",
-    "sandbox_shop_default": "ПА ЗМОЎЧАННІ",
+    "sandbox_shop_default": "ЗАВАДСКІ",
     "sandbox_shop_pitr": "ПІТР"
   }
 
 }
+
