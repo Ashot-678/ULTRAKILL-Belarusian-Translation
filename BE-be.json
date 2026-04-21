@@ -1986,7 +1986,7 @@
     "shop_colorsCustom": "СВАЯ",
     "shop_colorsDone": "ГАТОВА",
     "shop_colorsStandard": "СТАНДАРТНЫ",
-    "shop_colorsAlternative": "АЛЬТЭРНАТНЫ",
+    "shop_colorsAlternative": "<size=9>АЛЬТЭРНАТЫЎНЫ</size>",
     "shop_colorsCustomUnlockPrompt": "РАЗБЛАКУЙЦЕ КАРЫСТАЛЬНІЦКІЯ КОЛЕРЫ ЗА"
   },
   "levelTips": {
