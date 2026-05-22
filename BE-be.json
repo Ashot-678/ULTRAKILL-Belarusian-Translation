@@ -165,13 +165,7 @@
     "rank_letter_b": "B",
     "rank_letter_a": "A",
     "rank_letter_s": "S",
-    "rank_letter_p": "P",
-    "D": "D",
-    "C": "C",
-    "B": "B",
-    "A": "A",
-    "S": "S",
-    "P": "P"
+    "rank_letter_p": "P"
   },
   "prelude": {
     "prelude_first_openingCredits1": "<color=orange>NEW BLOOD</color> ПРАДСТАЎЛЯЕ",
@@ -294,11 +288,11 @@
   },
   "encore": {
     "encorePrelude_aboutRadiantEnemies": "<color=#f77900>ЗЗЯЮЧЫЯ</color> ворагі маюць павышаныя здароўе і хуткасць.",
-    "encorePrelude_heatResistanceWarn": "  УВАГА:",
-    "encorePrelude_heatResistanceText": "РАПТОЎНАЕ РЭЗКАЕ ЗМЯНЕННЕ ТЭМПЕРАТУРЫ. ПАРУШАНАЯ ЦЭЛАСНАСЦЬ ЦЕПЛААХОЎНАГА ЭКРАНА.",
-    "encorePrelude_heatResistanceTitle": "ТЭРМАЎСТОЙЛІВАСЦЬ",
-    "encorePrelude_heatResistanceRepaired": "ЗАЧЫНЕНЫ",
-    "encorePrelude_heatResistanceRepairedText": "ФУНКЦЫЯ РЭГУЛЯВАННЯ ТЭМПЕРАТУРЫ АДНОЎЛЕНАЯ. АДНОЎЛЕНЫ АХОЎНЫ ЭКРАН ГАЛАВЫ.",
+    "encorePrelude_heatResistanceWarn": "  <size=35>УВАГА:</size>",
+    "encorePrelude_heatResistanceText": "<size=13>РАПТОЎНАЕ РЭЗКАЕ ЗМЯНЕННЕ ТЭМПЕРАТУРЫ.\nПАРУШАНАЯ ЦЭЛАСНАСЦЬ ЦЕПЛААХОЎНІКА.</size>",
+    "encorePrelude_heatResistanceTitle": "<size=29>ТЭРМАЎСТОЙЛІВАСЦЬ</size>",
+    "encorePrelude_heatResistanceRepaired": "<size=31>ЗАЧЫНЕНЫ:</size>",
+    "encorePrelude_heatResistanceRepairedText": "ФУНКЦЫЯ РЭГУЛЯВАННЯ\nТЭМПЕРАТУРЫ АДНОЎЛЕНАЯ.\nЦЕПЛААХОЎНІК АДРАМАНТАВАНЫ.",
     "encoreLimbo_warningText": "<size=6>!! ПАПЯРЭДЖАННЕ !!</size>\n\nНЯЛАД СІСТЭМЫ ПАДАЧЫ ЭНЕРГІІ"
   },
   "cyberGrind": {
@@ -389,7 +383,7 @@
     "primeSanctum_second_lockSecondLocked": "ЗАМОК [B]",
     "primeSanctum_second_lockThirdLocked": "ЗАМОК [C]",
     "primeSanctum_second_lockUnlocked": "АДМЫКНУТА",
-    "primeSanctum_second_lockOpen": "АДЧЫНІЦЬ",
+    "primeSanctum_second_lockOpen": "<size=12>АДЧЫНІЦЬ</size>",
     "primeSanctum_second_lockAreYouSure": "ВЫ ЎПЭЎНЕНЫ?",
     "primeSanctum_second_lockYes1": "СЛЕДУЙЦЕ ПРАТАКОЛУ",
     "primeSanctum_second_lockYes2": "НЕ НАБЛІЖАЙЦЕСЯ ДА ЯГО",
